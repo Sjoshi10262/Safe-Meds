@@ -1,0 +1,7 @@
+{
+  "name": "Safe-Meds",
+  "description": "Your personal AI pharmacist. Scan medication strips to identify drugs and instantly check for safety risks against your personal health profile using Gemini Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
